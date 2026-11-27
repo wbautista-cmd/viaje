@@ -7,7 +7,7 @@ Actividad 5.2
 
 enlace:https://docs.google.com/document/d/1hyMK-G544Zj4fGwXbNpDU89qkegbobh3pIeG1Z-JqfE/edit?usp=sharing																																																
 
-Fase 3 -----VIAJE-----
+Fase 3 -----Viaje-----
 
 <img width="554" height="554" alt="imatge" src="https://github.com/user-attachments/assets/7165c881-efc4-43f9-9a3a-75672b6373cd" />
 
@@ -35,3 +35,5 @@ COMPARTIENDO EL CALENDARIÓ
 <img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 13-44-14" src="https://github.com/user-attachments/assets/bf29a93c-1f26-4e38-add4-19e8497186f1" />
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/c92e0a2e-2f78-4018-a249-f9b291e2b0a8" />
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/91a109cd-f3c8-4119-9053-a04cfccd7b5a" />
+
+Fase 4 -----Comprobacion y lista de pruebas----
