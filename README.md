@@ -31,3 +31,6 @@ Creación de recordatorios
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/ec65897e-232c-4ab2-9c95-0ef9e7d94301" />
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/0c3940d0-5608-4bc8-8ee2-71f5c7cb1065" />
 
+Compartiendo el calendario 
+<img width="1920" height="1080" alt="Captura de pantalla de 2026-11-27 13-44-14" src="https://github.com/user-attachments/assets/bf29a93c-1f26-4e38-add4-19e8497186f1" />
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/c92e0a2e-2f78-4018-a249-f9b291e2b0a8" />
