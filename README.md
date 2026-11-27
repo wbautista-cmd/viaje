@@ -37,4 +37,12 @@ COMPARTIENDO EL CALENDARIÓ
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/91a109cd-f3c8-4119-9053-a04cfccd7b5a" />
 
 
-Fase 4 -----Comprobacion y lista de pruebas----
+Fase 4 -----Permisos y pruebas----
+
+1.1 Hoja de calculo
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/7e129775-7b73-44c1-9035-5bda407efbb6" />
+
+
+1.2 Calendario
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/cafa6512-020a-43ed-adf7-cce8e42802f6" />
+
