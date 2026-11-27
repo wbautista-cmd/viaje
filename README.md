@@ -46,3 +46,5 @@ Fase 4 -----Permisos y pruebas----
 1.2 Calendario
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/cafa6512-020a-43ed-adf7-cce8e42802f6" />
 
+2 Verificacion en 2 pasos
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/98dad49e-0200-40e8-8a69-5b3e3eb55050" />
