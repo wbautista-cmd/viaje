@@ -19,6 +19,11 @@ Ruta del viaje
 
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/b72d8935-20ae-4091-9785-d4061354b6be" />
 
+Creacion del presupuesto y comparticion con el profe
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/9ab617de-680b-437d-a656-8c6d410e1f2d" />
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/70380c23-271b-445b-a2f2-722d2130b913" />
+
+
 Creacion del calendario
 
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/cd8fc115-eea0-40d2-9e1e-4b8c029be80e" />
