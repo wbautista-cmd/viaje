@@ -25,5 +25,9 @@ Creacion del calendario
 
 Creación de los eventos del calendario 
 
-<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/e3a1d7e9-f19d-458d-b411-64360191cbed" /> <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/921d7a86-0542-4a46-8e6f-8c2b5ce65a59" />
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/e3a1d7e9-f19d-458d-b411-64360191cbed" /> 
+
+Creación de recordatorios
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/ec65897e-232c-4ab2-9c95-0ef9e7d94301" />
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/0c3940d0-5608-4bc8-8ee2-71f5c7cb1065" />
 
