@@ -17,4 +17,5 @@ VIAJE
 
 Ruta del viaje
 
-enlace:https://maps.app.goo.gl/8vugRc1PuNo6NFEg9
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/b72d8935-20ae-4091-9785-d4061354b6be" />
+
