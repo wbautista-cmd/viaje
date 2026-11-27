@@ -36,4 +36,5 @@ COMPARTIENDO EL CALENDARIÓ
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/c92e0a2e-2f78-4018-a249-f9b291e2b0a8" />
 <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/91a109cd-f3c8-4119-9053-a04cfccd7b5a" />
 
+
 Fase 4 -----Comprobacion y lista de pruebas----
