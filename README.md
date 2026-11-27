@@ -25,4 +25,5 @@ Creacion del calendario
 
 Creación de los eventos del calendario 
 
-<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/e3a1d7e9-f19d-458d-b411-64360191cbed" />
+<img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/e3a1d7e9-f19d-458d-b411-64360191cbed" /> <img width="1920" height="1080" alt="imatge" src="https://github.com/user-attachments/assets/921d7a86-0542-4a46-8e6f-8c2b5ce65a59" />
+
